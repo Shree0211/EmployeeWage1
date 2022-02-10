@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-EmployeeWage1.UseCases.GetAttendence();
+Console.WriteLine("-------------Employee Wage Computation-------------");
+//EmployeeWage1.UseCases.GetAttendence();
+EmployeeWage1.CalculateDailyWages.EmpWage();
 
